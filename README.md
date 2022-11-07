@@ -20,6 +20,4 @@ As an example the date "01/12/2010" and shape "other" was entered, the image bel
 ![filtered_search](https://github.com/vanessaneang/UFOs/blob/main/static/images/filtered_search.png)
 
 ## Summary:
-
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+The drawbacks for this page is the case sensitivity for the filters and the users not knowing all the options for each filter. An update for the code would be to include dropdown menus with all the options for each filter and/or offer autocomplete text function when the user fills out the filter. This will offer the site more user-friendly useability and create less user error when trying to filter out the data. Another option to add to the page would be add a button for users to click once they are done filling out the filter search boxes, this gives the webpage more user-friendly avenues to prevent errors and increase user satisfaction.
